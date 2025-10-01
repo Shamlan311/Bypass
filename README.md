@@ -25,6 +25,7 @@ It is designed to **help researchers, students, and security enthusiasts underst
 
 ## 🪴 Usage
 
-1. Locate your `.exe` file.
-2. Drag the `.exe` file onto `Bypass.bat`.
-3. The program will run without triggering **admin *UAC* prompts**.
+1. Download the files included in this repo
+2. Drag the `.exe` file onto `Bypass.bat`
+3. The program will run without triggering **admin *UAC* prompts**
+
