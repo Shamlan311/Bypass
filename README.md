@@ -2,7 +2,7 @@
 
 ---
 
-> ⚠️ **Disclaimer:** This tool can **bypass administrator UAC**. It is for **educational and research purposes only**. Use it only on systems you own. Unauthorized use is illegal.
+> ⚠️ **Disclaimer:** This tool can **bypass administrator UAC**. It is made for **educational and research purposes only**. Use it only on systems you own. Unauthorized use is illegal.
 
 ---
 
@@ -19,16 +19,12 @@ It is designed to **help researchers, students, and security enthusiasts underst
 - Can **bypass administrator UAC prompts**  
 - Simple **drag-and-drop usage**: just drop a program onto the batch file to run it  
 - Lightweight, minimal, and easy to use  
-- Perfect for **educational demonstrations and research**
+- Perfect for **learning and researching**
 
 ---
 
 ## 🪴 Usage
 
-**Option 1: Drag and drop**  
+**Drag and drop**  
 - Drag any `.exe` file onto `Bypass.bat`  
-- The program will run **without triggering admin UAC prompts**
-
-**Option 2: Command line**  
-```bat
-Bypass.bat "PathToProgram.exe"
+- The program will run without triggering ***admin UAC prompts***
