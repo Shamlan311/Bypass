@@ -25,7 +25,8 @@ It is designed to **help researchers, students, and security enthusiasts underst
 
 ## 🪴 Usage
 
-**Drag and drop**  
+- **Drag and drop:**  
 - Drag any `.exe` file onto `Bypass.bat`  
 - The program will run without triggering **admin *UAC* prompts**
+
 
