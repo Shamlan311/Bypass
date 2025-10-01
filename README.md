@@ -25,7 +25,6 @@ It is designed to **help researchers, students, and security enthusiasts underst
 
 ## 🪴 Usage
 
-**Drag and drop**  
-1. Locate the application that you want to bypass  
-2. Drag the `.exe` file onto `Bypass.bat`  
-3. The program will run without triggering **admin *UAC* prompts**
+1. Locate your `.exe` file.
+2. Drag the `.exe` file onto `Bypass.bat`.
+3. The program will run without triggering **admin *UAC* prompts**.
