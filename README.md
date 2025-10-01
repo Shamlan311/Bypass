@@ -16,7 +16,7 @@ It is designed to **help researchers, students, and security enthusiasts underst
 ## ✨ Features
 
 - Executes programs with **invoker privileges**  
-- Can **bypass administrator UAC prompts**  
+- Can bypass **administrator *UAC* prompts**  
 - Simple **drag-and-drop usage**: just drop a program onto the batch file to run it  
 - Lightweight, minimal, and easy to use  
 - Perfect for **learning and researching**
@@ -25,8 +25,7 @@ It is designed to **help researchers, students, and security enthusiasts underst
 
 ## 🪴 Usage
 
-- **Drag and drop:**  
-- Drag any `.exe` file onto `Bypass.bat`  
-- The program will run without triggering **admin *UAC* prompts**
-
-
+**Drag and drop**  
+1. Locate the application that you want to bypass  
+2. Drag the `.exe` file onto `Bypass.bat`  
+3. The program will run without triggering **admin *UAC* prompts**
