@@ -1,5 +1,8 @@
 # 🛠️ Bypass – UAC Privilege Batch Script
 
+![Educational](https://img.shields.io/badge/Purpose-Educational-yellow)
+![Warning](https://img.shields.io/badge/⚠️-Do_Not_Misuse-red)
+
 ---
 
 > ⚠️ **Disclaimer:** This tool can **bypass administrator UAC**. It is made for **educational and research purposes only**. Use it only on systems you own. Unauthorized use is illegal.
@@ -28,4 +31,5 @@ It is designed to **help researchers, students, and security enthusiasts underst
 1. Download the files included in this repo
 2. Drag the `.exe` file onto `Bypass.bat`
 3. The program will run without triggering **admin *UAC* prompts**
+
 
